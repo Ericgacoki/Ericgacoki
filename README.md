@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently working on Debts manager and [USCC Test Record] apps. I'll keep on updating the two repos and release a signed APK for each one of them once am "done" 😄.
+🔭 I'm currently working on Debts manager and USCC Test Record apps. I'll keep on updating these two repos and release a signed APK for each one of them once am "done" 😄.
