@@ -16,3 +16,12 @@ Here are some ideas to get you started:
  -->
 
 🔭 I'm currently working on Debts manager and USCC Test Record apps. I'll keep on updating these two repos and release a signed APK for each one of them once am "done" 😄.Keep coding dudes!
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ericgacoki&theme=default" /></td>
+  </tr>   
+</table>
+</center>
