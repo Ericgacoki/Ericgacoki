@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-🔭 I'm currently working on Debts manager and USCC Test Record apps. I'll keep on updating these two repos and release a signed APK for each one of them once am "done" 😄.Keep coding dudes!
+🔭 I'm currently working on Pro Notes, one of my favorite apps that I've created so far. Join me as I explore the best of `Android stuff` 😄.Keep coding dudes!
 
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&hide=html&layout=compact&theme=blue" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&hide=html&layout=compact&theme=dark" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Ericgacoki&theme=dark"/></td>
   </tr>   
 </table>
