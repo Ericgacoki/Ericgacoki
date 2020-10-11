@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-🔭 I'm currently working on Pro Notes, one of my favorite apps that I've created so far. Join me as I explore the best of `Android stuff` 😄.Keep coding dudes!
+🔭 I'm currently working on Pro Notes, one of my favorite apps that I've created so far. Join me as I explore the best of `Android` and `Kotlin` stuff 😄.Keep coding dudes!
 
 <center>
 <table>
