@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-🔭 `Taking a break is as important as coding `!
+🔭 `Resuming tomorrow`!
 
 <center>
 <table>
