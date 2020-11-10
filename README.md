@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-🔭 `Resuming tomorrow`!
+🔭 `Resuming soon`!
 
 <center>
 <table>
