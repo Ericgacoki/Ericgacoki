@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
+![github](https://img.shields.io/github/followers/Ericgacoki?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <center>
