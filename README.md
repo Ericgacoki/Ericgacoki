@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
-<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98842684-fde17580-245a-11eb-97b7-c8ec75a88f58.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98843138-9a0b7c80-245b-11eb-81c5-11ea4514a62c.png" />
 
 
