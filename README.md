@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### `Tools and Programming languages expertise`
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98839341-772a9980-2456-11eb-81fd-7eccd5fdc6ee.png" />
-<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98840922-78f55c80-2458-11eb-8e0e-dd3c059c2f19.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98842684-fde17580-245a-11eb-97b7-c8ec75a88f58.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841391-19e41780-2459-11eb-96c8-ab2640450a4d.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841689-895a0700-2459-11eb-8031-cdaef6c18b96.png" />
 
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
-<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98843138-9a0b7c80-245b-11eb-81c5-11ea4514a62c.png" />
 
 
