@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### `Tools and Programming languages expertise`
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98839341-772a9980-2456-11eb-81fd-7eccd5fdc6ee.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98840922-78f55c80-2458-11eb-8e0e-dd3c059c2f19.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841391-19e41780-2459-11eb-96c8-ab2640450a4d.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841689-895a0700-2459-11eb-8031-cdaef6c18b96.png" />
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -33,3 +36,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
+<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
+
+
