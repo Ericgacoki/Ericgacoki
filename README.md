@@ -1,4 +1,4 @@
-### Hello👋
+### Hi, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android stack ![@DSC Meru](https://twitter.com/DscMeru) and also the CEO of @DroidersCage. It's out of curiosity  that I keep learning , implementing and participating in teams with the goal of coming up with software solutions for real life problems.  👋
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
