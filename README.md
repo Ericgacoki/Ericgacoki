@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Projects in progress...
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
 
 ## Ready-to-use
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc_test_record&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc_test_record&theme=merko)
 
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
