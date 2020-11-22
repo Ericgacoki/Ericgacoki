@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Ericgacoki&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=radical)](https://github.com/Ericgacoki/)
 
-## Projects in progress...
+## `Projects in progress...`
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
 
-## Ready-to-use
+## `Ready-to-use`
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc_test_record&theme=merko)
 
