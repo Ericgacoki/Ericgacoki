@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Ready-to-use
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=USCC-test-record&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc-test-record&theme=radical)
 
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
