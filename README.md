@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
 
-## `Ready-to-use`
+## `Ready-for-use`
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc_test_record&theme=merko)
 
