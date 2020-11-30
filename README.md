@@ -1,4 +1,5 @@
-#### :zap: Hi, my name is Eric gacoki. I'm a passionate Android developer, currently the co-lead in Android stack [@DSC Meru](https://twitter.com/DscMeru) and also the organizer of [Droiders Cage](https://github.com/Droiders-Cage). It's out of curiosity  that I keep learning , implementing and participating in teams with the goal of coming up with software solutions for real life problems. The content below describes me more. :zap:
+#### :zap:
+Hi, my name is Eric gacoki. I'm a passionate Android developer, currently the co-lead in Android stack [@DSC Meru](https://twitter.com/DscMeru) and also the organizer of [Droiders Cage](https://github.com/Droiders-Cage). It's out of curiosity that I keep learning, implementing, and participating in teams to come up with software solutions for real-life problems. The content below describes me more.:zap:
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
