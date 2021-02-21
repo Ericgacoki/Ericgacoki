@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
-### `Tools and Programming languages expertise`
+### `Experinced in;`
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98839341-772a9980-2456-11eb-81fd-7eccd5fdc6ee.png" />
 
