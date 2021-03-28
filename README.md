@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## `Apps in progress...`
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt)
 
 ### `Favorite Apps/Projects`
 
