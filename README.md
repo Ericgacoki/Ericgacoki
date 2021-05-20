@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun facts:
  -->
  
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Ericgacoki&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=radical)](https://github.com/Ericgacoki/)
+![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Ericgacoki&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark)](https://github.com/Ericgacoki/)
 
 ## `Apps in progress...`
 
