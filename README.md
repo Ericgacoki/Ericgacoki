@@ -14,14 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun facts:
  -->
+ 
+ <center>
  <table>
    <tr>
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=dark& layout=compact" />
-   </tr>
+    <td>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
+   </td>
+ </tr>
    <tr>
+    <td>
    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
-   </tr>
+    </td>  
+ </tr>
  </table>
+ <center>
 
 ## `Apps in progress...`
 
