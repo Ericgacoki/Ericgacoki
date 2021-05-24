@@ -31,9 +31,25 @@ Here are some ideas to get you started:
  <center>
 
 ## `Apps in progress...`
-
+<!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt)
+  -->
+  
+   <center>
+ <table>
+   <tr>
+    <td>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=vision-friendly-dark& layout=compact"/>
+   </td>
+ </tr>
+   <tr>
+    <td>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt" />
+    </td>  
+ </tr>
+ </table>
+ <center>
 
 ### `Favorite Apps/Projects`
 
