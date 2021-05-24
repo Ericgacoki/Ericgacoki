@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun facts:
  -->
- 
-![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=Ericgacoki&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark)](https://github.com/Ericgacoki/)
+ <table>
+   <tr>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=dark& layout=compact" />
+   </tr>
+   <tr>
+   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
+   </tr>
+ </table>
 
 ## `Apps in progress...`
 
