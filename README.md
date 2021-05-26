@@ -14,29 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns:
 - ⚡ Fun facts:
  -->
- 
- <center>
- <table>
-   <tr>
-    <td>
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
-   </td>
- </tr>
-   <tr>
-    <td>
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
-    </td>  
- </tr>
- </table>
- <center>
 
-## `Apps in progress...`
+<p align="left">
+  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
+  <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark" />
+ <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
+</p>
+<p>
+
+<!-- Contribution graph -->
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Ericgacoki&theme=xcode" />
+
+### `Apps in progress...`
+
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt)
   -->
   
-   <center>
+ <center>
  <table>
    <tr>
     <td>
@@ -49,15 +45,14 @@ Here are some ideas to get you started:
     </td>  
  </tr>
  </table>
- <center>
-
+ </center>
+  
 ### `Favorite Apps/Projects`
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc-test-record&theme=merko)
 
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 
 ### `Experinced in;`
 
