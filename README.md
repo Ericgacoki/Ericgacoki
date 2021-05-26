@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
-  <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark" />
  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
 </p>
 <p>
