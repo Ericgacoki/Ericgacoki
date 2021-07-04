@@ -1,4 +1,4 @@
-#### :zap: Hello there, my name is Eric gacoki. I'm a passionate Android developer, currently the co-lead in Android stack [@DSC Meru](https://twitter.com/DscMeru) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
+#### :zap: Hello there, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android Stack [@DSC Meru](https://twitter.com/DscMeru) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
@@ -18,19 +18,14 @@ Here are some ideas to get you started:
 <p align="left">
   <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark" />
- <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericgacoki&layout=compact&theme=vision-friendly-dark" />
 </p>
 <p>
 
-<!-- Contribution graph -->
+<!-- Contribution graph 
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Ericgacoki&theme=xcode" />
-
+-->
+ 
 ### `Apps in progress...`
-
-<!--
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=cobalt)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt)
-  -->
   
  <center>
  <table>
@@ -39,13 +34,13 @@ Here are some ideas to get you started:
    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Pro-notes&theme=vision-friendly-dark& layout=compact"/>
    </td>
  </tr>
-   <tr>
+  <tr>
     <td>
-   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt" />
-    </td>  
- </tr>
+       <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=Sudofy&theme=cobalt" />
+     </td>  
+   </tr>
  </table>
- </center>
+</center>
   
 ### `Favorite Apps/Projects`
 
@@ -54,6 +49,7 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+ <!--
 ### `Experinced in;`
 
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98839341-772a9980-2456-11eb-81fd-7eccd5fdc6ee.png" />
@@ -72,3 +68,4 @@ Here are some ideas to get you started:
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98841377-13ee3680-2459-11eb-88b9-1fb6437b8c29.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98842684-fde17580-245a-11eb-97b7-c8ec75a88f58.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98843138-9a0b7c80-245b-11eb-81c5-11ea4514a62c.png" />
+-->
