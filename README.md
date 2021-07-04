@@ -2,7 +2,6 @@
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on...
@@ -21,6 +20,12 @@ Here are some ideas to get you started:
 </p>
 <p>
  -->
+ 
+ 
+![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
  <center>
  <table>
    <tr>
@@ -61,9 +66,6 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ericgacoki&repo=uscc-test-record&theme=merko)
 
-![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
  <!--
 ### `Experinced in;`
 
@@ -84,3 +86,7 @@ Here are some ideas to get you started:
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98842684-fde17580-245a-11eb-97b7-c8ec75a88f58.png" />
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98843138-9a0b7c80-245b-11eb-81c5-11ea4514a62c.png" />
 -->
+
+<a href="https://www.buymeacoffee.com/Ericgacoki" rel="Buy Eric a Coffee">
+ <img src="https://user-images.githubusercontent.com/54077752/124381598-fa417e00-dccb-11eb-9427-0d8457142e6f.png" title="I'm sure you like what I do 😛" />
+</a>
