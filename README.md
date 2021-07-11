@@ -1,4 +1,4 @@
-#### :zap: Hello there, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android Stack [@DSC Meru](https://twitter.com/DscMeru) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
+#### :zap: Hello, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android Stack [@GDSC Meru](https://twitter.com/DscMeru) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </p>
 <p>
  -->
- 
  
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
