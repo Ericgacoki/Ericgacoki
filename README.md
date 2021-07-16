@@ -1,4 +1,4 @@
-#### :zap: Hello, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android Stack [@GDSC Meru](https://twitter.com/DscMeru) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
+#### :zap: Hello, my name is Eric gacoki. I'm an Android developer, currently the co-lead in Android Stack [@GDSC Meru](https://twitter.com/DscMeru), scholar @Andela (GADS program) and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap:
 
 <!--
 **Ericgacoki/Ericgacoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
