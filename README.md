@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 <img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/54077752/98843138-9a0b7c80-245b-11eb-81c5-11ea4514a62c.png" />
 -->
 
+<!--
 <a href="https://www.buymeacoffee.com/Ericgacoki" rel="Buy Eric a Coffee">
  <img src="https://user-images.githubusercontent.com/54077752/124381598-fa417e00-dccb-11eb-9427-0d8457142e6f.png" title="I'm sure you like what I do 😛" />
-</a>
+</a> -->
