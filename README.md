@@ -15,6 +15,11 @@
        <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark"  />
      </td>  
    </tr>
+   <tr>
+    <td>
+       <img width="400px" align="left" src="https://img.shields.io/twitter/follow/eric_gacoki?style=social"  />
+     </td>  
+   </tr>
  </table>
 </center>
 
