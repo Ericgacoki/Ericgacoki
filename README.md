@@ -1,6 +1,6 @@
 <!-- #### :zap: Hello, Eric gacoki here, I'm an Android developer, GDSC Lead [@GDSC Meru](https://twitter.com/gdsc_meru), scholar @[Andela](https://twitter.com/Andela) (GADS program), and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap: -->
 
-#### Hey, this is Eric G, an Android developer...a good one I might add 😎.
+#### Hey, this is Eric, an Android developer...a good one I might add 😎.
 
 ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
