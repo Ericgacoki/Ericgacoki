@@ -26,4 +26,4 @@
   <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<code>[![Google Dev Profile](https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](g.dev/eric-g)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/eric-gacoki)</code> 
+<code>[![Google Dev Profile](https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://developers.google.com/profile/u/eric-g)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/eric-gacoki)</code> 
