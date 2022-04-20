@@ -1,6 +1,5 @@
 <!-- #### :zap: Hello, Eric gacoki here, I'm an Android developer, GDSC Lead [@GDSC Meru](https://twitter.com/gdsc_meru), scholar @[Andela](https://twitter.com/Andela) (GADS program), and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap: -->
 <!--  ![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 
 <center>
  <table>
@@ -36,3 +35,5 @@
 <p align="start">
   <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
