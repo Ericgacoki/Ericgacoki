@@ -13,7 +13,7 @@
   <a href="https://twitter.com/eric_gacoki"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/eric-gacoki"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/13006089/eric-gacoki"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
- <a href="https://developers.google.com/profile/u/eric-g"><img src="https://img.icons8.com/color/50/000000/google-rounded.png" alt="google dev profile"/></a>
+ <a href="https://developers.google.com/profile/u/eric-g"><img src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile"/></a>
 </p>
 
 <p align="center">
