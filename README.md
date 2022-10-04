@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eric contributions" /></p>
 
-<!--
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Eric contributions" /></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact&hide_border=true"/> </p> -->
 
 <p align="center">
