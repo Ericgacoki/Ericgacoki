@@ -9,6 +9,8 @@
   <a href="https://developers.google.com/profile/u/eric-g"><img src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile"/></a>
 </p>
 
+<!--
 <p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
