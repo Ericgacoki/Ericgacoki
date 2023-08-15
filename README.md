@@ -37,15 +37,12 @@ Oh, and I've also penned down a few insights in `articles` 🚀🎨📝
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td>
-            <a href="https://www.section.io/engineering-education/authors/eric-gacoki/">
-                <img src="media/more.png" alt="Read More" width="320px" />
-            </a>
-        </td>
-    </tr>
-</table>
+<p align="start">
+
+  <a href="https://www.section.io/engineering-education/authors/eric-gacoki/">
+      <img src="media/more.png" alt="Read More" width="320px" />
+  </a>
+</p>
 
 <!--
 <p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
