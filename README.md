@@ -3,14 +3,16 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact&hide_border=true"/> </p> -->
 
-<p align="center">
+<p align="start">
   <a href="https://twitter.com/eric_gacoki"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/eric-gacoki"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://developers.google.com/profile/u/eric-g"><img src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile"/></a>
 </p>
 
+[<img src="https://github.com/Ericgacoki/Ericgacoki/assets/54077752/78c5dc28-5d51-4f8a-8851-8ade3bec70ef" width="340px"/>](https://www.section.io/engineering-education/safe-args-in-android/)
+
 <!--
 <p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
