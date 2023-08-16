@@ -44,8 +44,4 @@ Oh, and I've also penned down a few insights in `articles` 🚀🎨📝
   </a>
 </p>
 
-<!--
-<p align="center"> <img src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
--->
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
+<p align="start"> <img width="420px" src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
