@@ -3,9 +3,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact&hide_border=true"/> </p> -->
 
-👋 Hey there, I'm Eric – an `Android` developer and `UI/UX` designer.
+ <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I'm Eric</h2>
 
-Crafting seamless tech experiences is my forte. Join me in the world of code and design on GitHub! 🚀🎨
+I'm currently crafting `Android` apps and `UI/UX` designs. I get dirty with `Dart` sometimes. 
+
+Join me in the world of code and design on GitHub! 🚀🎨
 
 <!--
 <p align="left">
@@ -15,8 +17,10 @@ Crafting seamless tech experiences is my forte. Join me in the world of code and
 </p>
 -->
 
-Oh, and I've also penned down a few insights in `articles` 🚀🎨📝
 
+Oh, and I've also penned down a few `articles` 📝
+
+<!--
 <table>
     <tr>
         <td>
@@ -36,12 +40,13 @@ Oh, and I've also penned down a few insights in `articles` 🚀🎨📝
         </td>
     </tr>
 </table>
+-->
 
-<p align="start">
+<p align="left">
 
   <a href="https://www.section.io/engineering-education/authors/eric-gacoki/">
       <img src="media/more.png" alt="Read More" width="320px" />
   </a>
 </p>
 
-<p align="start"> <img width="420px" src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+<!-- <p align="start"> <img width="420px" src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p> -->
