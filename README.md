@@ -43,10 +43,10 @@ Oh, and I've also penned down a few `articles` 📝
 -->
 
 <p align="left">
-
-  <a href="https://www.section.io/engineering-education/authors/eric-gacoki/">
+  <a href="https://www.section.io/engineering-education/authors/eric-gacoki/" target="_blank">
       <img src="media/more.png" alt="Read More" width="320px" />
   </a>
 </p>
+
 
 <!-- <p align="start"> <img width="420px" src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p> -->
