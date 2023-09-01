@@ -43,12 +43,6 @@ Oh, and I've also penned down a few `articles` 📝
 -->
 
 <p align="left">
-  <a href="https://www.section.io/engineering-education/authors/eric-gacoki/" target="_blank">
-      <img src="media/more.png" alt="Read More" width="320px" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://www.section.io/engineering-education/authors/eric-gacoki/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="media/more.png" alt="Read More" width="320px" />
   </a>
