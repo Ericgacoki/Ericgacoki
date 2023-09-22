@@ -3,7 +3,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ericgacoki&count_private=true&show_icons=true&theme=vision-friendly-dark& layout=compact&hide_border=true"/> </p> -->
 
- <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I'm Eric</h2>
+<!-- <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I'm Eric</h2> -->
+
+<h2> Hello there, I'm Eric </h2>
 
 I'm currently crafting `Android` apps and `UI/UX` designs. I get dirty with `Dart` sometimes. 
 
