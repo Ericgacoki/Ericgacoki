@@ -7,7 +7,7 @@
 
 <h2> Hello there, I'm Eric </h2>
 
-I'm currently crafting `Android` apps and `UI/UX` designs. I get dirty with `Dart` sometimes. 
+Currently crafting `Mobile` apps and `UI/UX` designs. I am proficient in `Kotlin` ,`Dart` and `Figma`. 
 
 Join me in the world of code and design on GitHub! 🚀🎨
 
@@ -18,9 +18,6 @@ Join me in the world of code and design on GitHub! 🚀🎨
   <a href="https://developers.google.com/profile/u/eric-g"><img src="https://img.icons8.com/color/50/google-logo.png" alt="google dev profile"/></a>
 </p>
 -->
-
-
-Oh, and I've also penned down a few `articles` 📝
 
 <!--
 <table>
@@ -44,10 +41,12 @@ Oh, and I've also penned down a few `articles` 📝
 </table>
 -->
 
+<!--
 <p align="left">
   <a href="https://www.section.io/engineering-education/authors/eric-gacoki/" onclick="window.open(this.href, '_blank'); return false;">
     <img src="media/more.png" alt="Read More" width="320px" />
   </a>
 </p>
+-->
 
 <!-- <p align="start"> <img width="420px" src="https://github.com/Ericgacoki/Ericgacoki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center></p> -->
